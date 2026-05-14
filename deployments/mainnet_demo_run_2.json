@@ -1,0 +1,16 @@
+{
+  "network": "0G Aristotle Mainnet",
+  "chain_id": 16661,
+  "run_id": "hitl_review_1",
+  "final_state": "completed",
+  "executor_called": "0x5715001b3add9724df93d57e145c2a4330422d0f",
+  "aip_contract": "0xe2073a9bfe630d87c2256357a09afa918fed41c9",
+  "aip_tx_hash": "0x5c5d50ca2c6cdaff14c6edf4b433cfbf4fa74a0f179cac78615fee7d152c2f3f",
+  "aip_block_number": 32727412,
+  "storage_roots": {
+    "awaiting_human": "0xbb1a91b973fc637e85e32eb0cae3507636581ab8f73617414fc0c6eac4286dcd",
+    "submitting_onchain": "0x6c64aa7cafbe8cec25e8ac15493555e8dda5ab62ed695147f62f68d0e6cee7c9",
+    "completed": "0x8b95598fde92c8eeba6055d35b8b631187bb5d141f8e984a9132c5b6ab614675"
+  },
+  "completed_at": "2026-05-09T08:45:00Z"
+}

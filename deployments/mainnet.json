@@ -1,0 +1,13 @@
+{
+  "network": "0G Aristotle Mainnet",
+  "chain_id": 16661,
+  "deployer": "0xf343588e6162c5e034fea05d96dac65123b300c0",
+  "agent_executor": "0x5715001b3add9724df93d57e145c2a4330422d0f",
+  "agent_executor_tx_hash": "0x84c8fc9a444aa8cc7f6ba1612f993edaf93f9480a83e5a6dedf4477586a77ed5",
+  "agent_executor_deploy_block": 32621917,
+  "aip_contract": "0xe2073a9bfe630d87c2256357a09afa918fed41c9",
+  "aip_tx_hash": "0x00e5b39edc16cd9a0656ea87df47f2eda16c68f31ed177b523572418ae55cb3a",
+  "aip_deploy_block": 32621994,
+  "setaip_tx_hash": "0x3feeef734bdf48922ce1d1c6d120ba9651a26d9025bc721e8bcc847f2f2d12f4",
+  "deployed_at": "2026-05-08T07:08:38Z"
+}

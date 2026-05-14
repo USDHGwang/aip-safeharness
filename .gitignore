@@ -1,0 +1,50 @@
+﻿# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# State files (contain run-specific data, not for repo)
+state.json
+state_backup_*.json
+root_hash_index.json
+root_hash_index_backup_*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Dev tools and local state
+.claude/
+miner
+multi_agent_loop_old_truncated.py
+state_failed_*.json
+test.txt
+test_download.txt
+0G_INTEGRATION.md
+test_*.py
+0G_INTEGRATION.md
+test_*.py
+deployments/x_post_draft.md
+deployments/x_post_draft.md
+
+# Additional cleanup
+__pycache__/
+**/__pycache__/
+hermes-stack/
+*.backup
+state_test*.json
+login_system_doc.md
+multi_agent_loop_doc.md

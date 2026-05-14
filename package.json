@@ -1,0 +1,10 @@
+{
+  "name": "agent-learn",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@0gfoundation/0g-ts-sdk": "^1.2.6",
+    "dotenv": "^17.4.2",
+    "ethers": "^6.13.1"
+  }
+}
